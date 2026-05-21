@@ -205,8 +205,9 @@ jupyter notebook customer-support-ticket-analysis.ipynb
 ## 🔗 Connect with Me
 
 - 📊 **Kaggle**: [kaggle.com/bappadityamahata](https://www.kaggle.com/bappadityamahata)
-- 💼 **LinkedIn**: *Add your LinkedIn URL here*
-- 📧 **Email**: *Add your email here*
+- 💼 **LinkedIn**: linkedin.com/in/bappaditya
+mahata-d16b27
+- 📧 **Email**: bappaditya2710@gmail.com
 
 ---
 
